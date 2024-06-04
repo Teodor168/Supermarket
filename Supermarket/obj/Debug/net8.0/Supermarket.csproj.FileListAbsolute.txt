@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\Domashna 4.06\Supermarket\bin\Debug\net8.0\Supermarket.exe
+C:\Users\User\Documents\programirane\Domashna 4.06\Supermarket\bin\Debug\net8.0\Supermarket.deps.json
+C:\Users\User\Documents\programirane\Domashna 4.06\Supermarket\bin\Debug\net8.0\Supermarket.runtimeconfig.json
+C:\Users\User\Documents\programirane\Domashna 4.06\Supermarket\bin\Debug\net8.0\Supermarket.dll
+C:\Users\User\Documents\programirane\Domashna 4.06\Supermarket\bin\Debug\net8.0\Supermarket.pdb
+C:\Users\User\Documents\programirane\Domashna 4.06\Supermarket\obj\Debug\net8.0\Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\Domashna 4.06\Supermarket\obj\Debug\net8.0\Supermarket.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\Domashna 4.06\Supermarket\obj\Debug\net8.0\Supermarket.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\Domashna 4.06\Supermarket\obj\Debug\net8.0\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\Domashna 4.06\Supermarket\obj\Debug\net8.0\Supermarket.dll
+C:\Users\User\Documents\programirane\Domashna 4.06\Supermarket\obj\Debug\net8.0\refint\Supermarket.dll
+C:\Users\User\Documents\programirane\Domashna 4.06\Supermarket\obj\Debug\net8.0\Supermarket.pdb
+C:\Users\User\Documents\programirane\Domashna 4.06\Supermarket\obj\Debug\net8.0\Supermarket.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\Domashna 4.06\Supermarket\obj\Debug\net8.0\ref\Supermarket.dll
